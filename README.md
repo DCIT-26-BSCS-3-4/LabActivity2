@@ -72,5 +72,5 @@ A personalized React Native **“Student Profile”** app displayed on **Snack E
 
 ### **Prepared By:**
 **Hernz N. Ramones**  
-Laboratory 2 — Mobile Application Development  
+Laboratory 2: DCIT 26 – Application Development and Emerging Technologies
   

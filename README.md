@@ -58,7 +58,7 @@ Submit the following through a **private comment** in Google Classroom:
 
 ---
 
-## 🧾 **Expected Output**
+##  **Expected Output**
 A personalized React Native **“Student Profile”** app displayed on **Snack Expo**, showing all required details with your own **custom design and layout**.
 
 ---

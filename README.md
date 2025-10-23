@@ -46,8 +46,8 @@ At the end of this laboratory activity, students are expected to:
 ### 4. GitHub Submission
 1. Create a new branch named: Surname_lab2-branch
 2. Upload your **Snack Expo code files** to this branch.
-3. Add a tag named Laboratory2 to mark your first version of the code.
-4. 4. Attach the screenshot file (`Surname_Lab2_Output1.png` or `Surname_Lab2_Output.pdf`) in your repository.
+3. Add a tag named (`Laboratory2`) to mark your first version of the code.
+4. Attach the screenshot file (`Surname_Lab2_Output1.png` or `Surname_Lab2_Output.pdf`) in your repository.
 5. Include the **screenshot of your output** inside the repository.
 
 ### 5. Google Classroom Submission
